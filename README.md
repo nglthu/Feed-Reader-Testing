@@ -26,7 +26,7 @@ I will learn how to use Jasmine to write a number of tests against a pre-existin
 
 ## Output
 
-<img src="/img/freedReadingTesting.png">
+<img src="/img/freedReadingTesting.jpg">
 
 ## Review
 
