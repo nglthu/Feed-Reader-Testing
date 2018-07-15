@@ -24,6 +24,12 @@ I will learn how to use Jasmine to write a number of tests against a pre-existin
 
 # How will I complete this project?
 
+## Output
+
+<img src="/img/freedReadingTesting.png">
+
+## Review
+
 Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
 
 1. Take the JavaScript Testing [course](https://www.udacity.com/course/ud549)
