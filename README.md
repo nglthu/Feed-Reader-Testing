@@ -1,4 +1,7 @@
-# unit-test
+# Feed Reader Testing
+
+Wrote comprehensive unit tests, using the Jasmine testing framework, for an RSS Feed Reader application that uses Google's RSS API. 
+
 # Project Overview
 
 In this project I were given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and they're now left with an application with an incomplete test suite. That's where I come in.
